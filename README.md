@@ -1,2 +1,2 @@
 # odin-recipes
-A recipes website created as part of the Odin project curriculum.
+A recipes website created for the Odin project curriculum.
